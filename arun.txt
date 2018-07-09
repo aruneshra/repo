@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4698-2C01
+
+ Directory of C:\Users\arunesh\Desktop\myproject
+
+07/09/2018  11:53 PM    <DIR>          .
+07/09/2018  11:53 PM    <DIR>          ..
+07/09/2018  11:53 PM                 0 arun.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  55,037,665,280 bytes free
